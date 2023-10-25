@@ -72,7 +72,8 @@ def main(source):
         modelPath = "djangoProject/my_model1.h5"
         model = tf.keras.models.load_model(modelPath)
 
-        image_path = "../"+contract_name + '.png'
+        image_path = os.getcwd() + "/" + contract_name + '.png'
+        
         pred, idxs = get_vulnerability_location(image_path, model)
         if pred < 0.5:
             continue
