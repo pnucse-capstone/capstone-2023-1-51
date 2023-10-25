@@ -46,7 +46,12 @@
 ### Directory Structure
 
 ```bash
-수정예정
+📦
+├─ djangoProject             # backend project
+│   
+├─ docs                      
+│
+└─ smart_contract.           #frontend project    
 ```
 
 ### **Tech Stack**
@@ -63,6 +68,9 @@
 ### 소개 영상
 
 - 링크 추가 예정
+
+### 발표자료
+- [발표자료](https://prezi.com/view/YmYvDqkG4TGhjsjwGq7R/)
 
 
 
