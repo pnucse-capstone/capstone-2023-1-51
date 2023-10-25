@@ -70,6 +70,7 @@
 - 링크 추가 예정
 
 ### 발표자료
+
 - [발표자료](https://prezi.com/view/YmYvDqkG4TGhjsjwGq7R/)
 
 
@@ -94,7 +95,7 @@ For building and running the application yoe need:
 git clone https://github.com/pnucse-capstone/capstone-2023-1-51.git
 ```
 
-1. 복제된 프로젝트로 이동
+2. 복제된 프로젝트로 이동
 
 ```bash
 cd capstone-2023-1-51
@@ -108,7 +109,7 @@ cd capstone-2023-1-51
 cd djangoProject
 ```
 
-1. Python 가상환경을 생성하고 활성화
+2. Python 가상환경을 생성하고 활성화
 
 ```bash
 python -m venv venv
@@ -116,13 +117,13 @@ source myenv/bin/activate  # Linux/Mac
 myenv\Scripts\activate  # Windows
 ```
 
-1. 필요한 python 패키지를 설치
+3. 필요한 python 패키지를 설치
 
 ```bash
 pip install -r requirements.txt
 ```
 
-1. django 서버 시작
+4. django 서버 시작
 
 ```bash
 python manage.py runserver
@@ -136,19 +137,19 @@ python manage.py runserver
 cd smart_contract
 ```
 
-1. 의존성 설치
+2. 의존성 설치
 
 ```bash
 flutter pub get
 ```
 
-1. Flutter 웹 지원을 활성화
+3. Flutter 웹 지원을 활성화
 
 ```bash
 flutter config --enable-web
 ```
 
-1. 웹으로 앱을 컴파일하고 실행
+4. 웹으로 앱을 컴파일하고 실행
 
 ```bash
 flutter run -d chrome
