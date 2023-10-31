@@ -67,7 +67,7 @@
 
 ### 소개 영상
 
-- [소개 영상](https://youtu.be/65W0IKs8ahA?si=7ujhE0zmFgtaGksn)
+ [![소개 영상](http://img.youtube.com/vi/65W0IKs8ahA/0.jpg)](https://www.youtube.com/watch?v=65W0IKs8ahA)
 
 ### 발표자료
 
