@@ -67,7 +67,7 @@
 
 ### 소개 영상
 
-- 링크 추가 예정
+- [소개 영상](https://youtu.be/65W0IKs8ahA?si=7ujhE0zmFgtaGksn)
 
 ### 발표자료
 
